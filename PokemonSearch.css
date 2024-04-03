@@ -1,0 +1,61 @@
+/* PokemonSearch.css */
+
+.PokemonSearch {
+    margin-top: 20px;
+  }
+  
+  .PokemonSearch label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    margin: 20px;
+  }
+  
+  .PokemonSearch input {
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid #333;
+    padding: 5px;
+    font-size: 18px;
+    outline: none;
+  }
+  
+  .PokemonSearch div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .PokemonSearch h2 {
+    color: #333;
+    margin: 10px;
+  }
+  
+  .PokemonSearch img {
+    width: 200px;
+    height: 200px;
+    border: 5px solid #66ccff;
+    border-radius: 50%;
+    margin-top: 10px;
+  }
+  
+  .PokemonSearch strong {
+    color: #333;
+    font-size: 18px;
+    margin: 10px;
+  }
+  
+  .PokemonSearch ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .PokemonSearch li {
+    color: #333;
+    font-size: 16px;
+    margin: 5px;
+  }
+  
